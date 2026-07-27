@@ -1,0 +1,34 @@
+﻿//Console.WriteLine("Hello, World!");
+
+using NET_small_projects;
+
+//pattern1.Main(null);
+//pattern2.Main(null);
+//pattern3.Main(null);
+//pattern4.Main(null);
+//pattern5.Main(null);
+//pattern6.Main(null);
+//pattern7.Main(null);
+//pattern8.Main(null);
+//armstrong.Armstrong();
+//gender_input.Gender();
+//phone_no_hide.main(null);
+//num_to_name.NumberToName();
+//name.Main(null);
+//fibonacci.main(null);
+//sum_of_series.Main(null);
+//factorial.Main(null);
+//sum_of_three_num.Main(null);
+//simple_calculator.Sum();
+//swap_element.Main(null);
+//table_of_num.main(null);
+//toggle.main(null);
+//change_to_uppercase.main(null);
+//array.Main(null);
+//odd_even_count_array.Main(null);
+//positive_nagative_zero_array.Main(null);
+//second_largest_num_array.Main(null);
+//second_smallest_num_array.Main(null);
+//word_to_reword.main(null);
+//length_of_word.main(null);
+//palindrome.main(null);
