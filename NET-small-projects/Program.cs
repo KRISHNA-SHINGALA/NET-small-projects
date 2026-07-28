@@ -32,3 +32,6 @@ using NET_small_projects;
 //word_to_reword.main(null);
 //length_of_word.main(null);
 //palindrome.main(null);
+//frequency_of_element_array.Main(null);
+//linear_search_array.Main(null);
+first_occurence.Main(null);
