@@ -34,4 +34,6 @@ using NET_small_projects;
 //palindrome.main(null);
 //frequency_of_element_array.Main(null);
 //linear_search_array.Main(null);
-first_occurence.Main(null);
+//first_occurence.Main(null);
+//count_occurence.Main(null);
+last_occurence.Main(null);
