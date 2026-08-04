@@ -36,4 +36,5 @@ using NET_small_projects;
 //linear_search_array.Main(null);
 //first_occurence.Main(null);
 //count_occurence.Main(null);
-last_occurence.Main(null);
+//last_occurence.Main(null);
+binary_search.main(null);
