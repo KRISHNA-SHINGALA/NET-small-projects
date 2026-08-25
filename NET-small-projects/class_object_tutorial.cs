@@ -8,9 +8,21 @@ namespace NET_small_projects
     {
         // data members
         public string Name { get; set; }
-        private int age;
+        private int age; // data member
         public string Dept { get; set; }
 
+        private double Salary;
+
+        public void SetSalary(double Salary) //setter method
+        {
+            this.Salary = Salary;
+        }
+        public double GetSalary() //getter method
+        {
+            return this.Salary;
+        }
+
+        //prooperty looks like a variable and works like a method
         public int Age //proprty
         {
             get //read only
@@ -29,6 +41,7 @@ namespace NET_small_projects
             Console.WriteLine("Name : " + Name);
             Console.WriteLine("Age : " + Age);
             Console.WriteLine("Dept : " + Dept);
+            Console.WriteLine("Salary : " + Salary);
         }
     }
     class class_object_tutorial
@@ -39,6 +52,8 @@ namespace NET_small_projects
             e1.Name = "Ramesh";
             e1.Age = 25;
             e1.Dept = "CSE";
+            e1.SetSalary(100000);
+            e1.Display();
 
             //Console.WriteLine(e1.name);
             //Console.WriteLine(e1.age);
@@ -48,6 +63,8 @@ namespace NET_small_projects
             e2.Name = "Dinesh";
             e2.Age = 32;
             e2.Dept = "IT";
+            e2.SetSalary(200000);
+            e2.Display();
 
             //Console.WriteLine (e2.name);
             //Console.WriteLine(e2.age);
