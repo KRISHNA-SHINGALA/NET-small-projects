@@ -55,6 +55,8 @@ namespace NET_small_projects
             e1.SetSalary(100000);
             e1.Display();
 
+            Console.WriteLine();
+
             //Console.WriteLine(e1.name);
             //Console.WriteLine(e1.age);
             //Console.WriteLine(e1.dept);
