@@ -38,4 +38,8 @@ using NET_small_projects;
 //count_occurence.Main(null);
 //last_occurence.Main(null);
 //binary_search.main(null);
-reverse_array.main(null);
+//reverse_array.main(null);
+//copy_array_in_another.Main(null);
+//merge_arry.Main(null);
+
+class_object_tutorial.main(null);
