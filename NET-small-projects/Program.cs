@@ -42,4 +42,5 @@ using NET_small_projects;
 //copy_array_in_another.Main(null);
 //merge_arry.Main(null);
 
-class_object_tutorial.main(null);
+//class_object_tutorial.main(null);
+product_class_object.Main(null);
