@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NET_small_projects;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -75,3 +76,47 @@ namespace NET_small_projects
         }
     }
 }
+
+//class RegularEmployee: Employee_123 //level-1
+//{
+//    //Data members: from this class: 5
+//    //Data members: from parent class(Employee): 3
+
+//    //Data members: from this class: 0
+//    //Data members: from parent class(Employee): 1
+
+//    //Data members: from this class: 0
+//    //Data members: from parent class(Employee): 3
+
+//    private double Basic;
+//    private double DA;
+//    private double HRA;
+//    private double PF;
+//    private double PT;
+
+//}
+
+//public new void Check()
+//{
+//    Console.WriteLine("Check method")
+//}
+
+//public new void Test()
+//{
+//    Console.WriteLine("Test method")
+//}
+
+//Employee_123 e3 = new Employee_123();
+//e3.Display(); //Employee
+//e3.Check(); //Employee
+//e3.Test(); //error
+
+//RegularEmployee e4 = new RegularEmployee();
+//e4.Display(); //RegularEmployee
+//e4.Check(); //REgularEmployee
+//e4.Test(); //ok
+
+//Employee_123 e5 = new RegularEmployee();
+//e5.Display(); //RegularEmployee
+//e5.Check(); //Both? Employee?
+//e5.Test(); //error
