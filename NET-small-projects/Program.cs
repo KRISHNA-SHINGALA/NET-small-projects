@@ -2,6 +2,10 @@
 
 using NET_small_projects;
 
+Console.WriteLine("Name: Krishna Shingala");
+Console.WriteLine("Enrollment no.: 24SOECE11037");
+Console.WriteLine();
+
 //pattern1.Main(null);
 //pattern2.Main(null);
 //pattern3.Main(null);
@@ -45,3 +49,9 @@ using NET_small_projects;
 //class_object_tutorial.main(null);
 //product_class_object.Main(null);
 
+//Array_Que_1.Main(null);
+
+//Array_Que_2.Main(null);
+//Array_Que_3.Main(null);
+//Array_Que_4.Main(null);
+Array_Que_5.Main(null);
