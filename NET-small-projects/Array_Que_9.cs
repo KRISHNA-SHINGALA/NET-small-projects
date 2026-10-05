@@ -4,6 +4,7 @@ using System.Text;
 
 namespace NET_small_projects
 {
+    //Write a C# Sharp program to delete an element at the desired position from an array.
     class Array_Que_9
     {
         public static void Main(String[] args)

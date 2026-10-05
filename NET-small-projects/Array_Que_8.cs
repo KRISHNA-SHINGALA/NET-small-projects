@@ -4,6 +4,7 @@ using System.Text;
 
 namespace NET_small_projects
 {
+    //Write a C# Sharp program to sort array elements in descending order.
     class Array_Que_8
     {
         public static void Main(String[] args)

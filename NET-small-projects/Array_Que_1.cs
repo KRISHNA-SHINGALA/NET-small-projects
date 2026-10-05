@@ -4,6 +4,7 @@ using System.Text;
 
 namespace NET_small_projects
 {
+    //Write a C# Sharp program that stores elements in an array and prints them.
     class Array_Que_1
     {
         public static void Main(String[] args)

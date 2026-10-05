@@ -4,6 +4,7 @@ using System.Text;
 
 namespace NET_small_projects
 {
+    //Write a C# Sharp program for adding two matrices of the same size.
     class Array_Que_10
     {
         public static void Main(String[] args)

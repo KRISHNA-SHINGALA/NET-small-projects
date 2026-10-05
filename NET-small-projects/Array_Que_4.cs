@@ -4,6 +4,7 @@ using System.Text;
 
 namespace NET_small_projects
 {
+    //Write a C# Sharp program to copy the elements of one array into another array.
     class Array_Que_4
     {
         public static void Main(String[] args)

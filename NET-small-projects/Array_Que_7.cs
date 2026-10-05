@@ -4,6 +4,7 @@ using System.Text;
 
 namespace NET_small_projects
 {
+    //Write a program in C# Sharp to separate odd and even integers into separate arrays.
     class Array_Que_7
     {
         public static void Main(String[] args)

@@ -4,6 +4,7 @@ using System.Text;
 
 namespace NET_small_projects
 {
+    //Write a C# Sharp program to read n values in an array and display them in reverse order.
     class Array_Que_3
     {
         public static void Main(String[] args)

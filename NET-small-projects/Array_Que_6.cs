@@ -4,6 +4,7 @@ using System.Text;
 
 namespace NET_small_projects
 {
+    //Write a C# Sharp program to find the maximum and minimum elements in an array.
     class Array_Que_6
     {
         public static void Main(String[] args)

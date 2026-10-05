@@ -4,6 +4,7 @@ using System.Text;
 
 namespace NET_small_projects
 {
+    //Write a C# Sharp program to count duplicate elements in an array.
     class Array_Que_5
     {
         public static void Main(String[] args)
