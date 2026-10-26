@@ -76,3 +76,5 @@ Console.WriteLine();
 //Custom_Exception_Example.Main(null);
 
 //Lambda_Example.Main(null);
+
+Lambda_Collection_Example.Main(null);
