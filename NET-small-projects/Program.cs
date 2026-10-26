@@ -60,4 +60,8 @@ Console.WriteLine();
 //Array_Que_7.Main(null);
 //Array_Que_8.Main(null);
 //Array_Que_9.Main(null);
-Array_Que_10.Main(null);
+//Array_Que_10.Main(null);
+//Interface_Example.Main(null);
+//Multiple_Interface_Example.Main(null);
+//Delegate_Example.Main(null);
+
