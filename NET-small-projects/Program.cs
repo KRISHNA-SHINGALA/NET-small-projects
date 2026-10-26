@@ -83,4 +83,6 @@ Console.WriteLine();
 
 //LINQ_Objects_Example.Main(null);
 
-Multithreading_Example.Main(null);
+//Multithreading_Example.Main(null);
+
+Thread_Lifecycle_Example.Main(null);
