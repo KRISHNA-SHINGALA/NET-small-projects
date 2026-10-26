@@ -65,4 +65,6 @@ Console.WriteLine();
 //Multiple_Interface_Example.Main(null);
 //Delegate_Example.Main(null);
 
-Multicast_Delegate_Example.Main(null);
+//Multicast_Delegate_Example.Main(null);
+
+Event_Example.Main(null);
