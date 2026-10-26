@@ -67,4 +67,6 @@ Console.WriteLine();
 
 //Multicast_Delegate_Example.Main(null);
 
-Event_Example.Main(null);
+//Event_Example.Main(null);
+
+Exception_Example.Main(null);
