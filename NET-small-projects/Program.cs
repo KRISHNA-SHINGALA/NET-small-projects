@@ -71,4 +71,6 @@ Console.WriteLine();
 
 //Exception_Example.Main(null);
 
-Try_Catch_Finally_Example.Main(null);
+//Try_Catch_Finally_Example.Main(null);
+
+Custom_Exception_Example.Main(null);
