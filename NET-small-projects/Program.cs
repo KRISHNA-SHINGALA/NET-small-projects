@@ -79,4 +79,6 @@ Console.WriteLine();
 
 //Lambda_Collection_Example.Main(null);
 
-LINQ_Example.Main(null);
+//LINQ_Example.Main(null);
+
+LINQ_Objects_Example.Main(null);
