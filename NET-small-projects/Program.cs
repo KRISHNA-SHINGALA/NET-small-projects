@@ -73,4 +73,6 @@ Console.WriteLine();
 
 //Try_Catch_Finally_Example.Main(null);
 
-Custom_Exception_Example.Main(null);
+//Custom_Exception_Example.Main(null);
+
+//Lambda_Example.Main(null);
